@@ -6,13 +6,14 @@ import { GoogleAuthProvider } from "firebase/auth/cordova";
 
 // Your web app's Firebase configuration
 const firebaseConfig = {
-  apiKey: "AIzaSyB1KL-HlpM2EXS8ULJBdvORbhLHztlTBes",
-  authDomain: "fusioncart-e2067.firebaseapp.com",
-  projectId: "fusioncart-e2067",
-  storageBucket: "fusioncart-e2067.appspot.com",
-  messagingSenderId: "307612904086",
-  appId: "1:307612904086:web:de86dbd4e37044ca5670b7"
+  apiKey: "AIzaSyBMS76Oo7UxqcRq-Q4VOoVVBMhJmAlbFBY",
+  authDomain: "elbowcart-e7393.firebaseapp.com",
+  projectId: "elbowcart-e7393",
+  storageBucket: "elbowcart-e7393.appspot.com",
+  messagingSenderId: "278107661489",
+  appId: "1:278107661489:web:88b280289c030d0b68ae90",
 };
+
 
 // Initialize Firebase
 const app = initializeApp(firebaseConfig);
